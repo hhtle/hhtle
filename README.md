@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/hannah-tollie/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="Hannah_Resume_GithubReadme_pdf.pdf](https://github.com/user-attachments/files/25754283/Hannah_Resume_GithubReadme_pdf.pdf">
+  <a href="https://github.com/user-attachments/files/25754283/Hannah_Resume_GithubReadme_pdf.pdf">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume CV" />
   </a>
 </p>
